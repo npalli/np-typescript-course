@@ -1,0 +1,16 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Palli",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json2csv": "^5.0.5",
+    "request": "^2.88.2"
+  }
+}
