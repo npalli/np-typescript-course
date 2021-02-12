@@ -9,8 +9,14 @@
   "author": "Nikhil Palli",
   "license": "ISC",
   "dependencies": {
+    "@types/faker": "^5.1.6",
+    "@types/googlemaps": "^3.43.3",
     "axios": "^0.21.1",
+    "faker": "^5.4.0",
     "json2csv": "^5.0.5",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5"
   }
 }
