@@ -27,14 +27,6 @@ interface Vehicle {
     summary(): string;
 }
 
-const printVehicleTwo = (vehicle: Vehicle) => {
-    console.log(vehicle.name);
-    console.log(vehicle.year);
-    console.log(vehicle.broken);
-};
-
-printVehicleTwo(oldCivic);
-
 //does not need to have all values
 interface Reportable {
     summary(): string;
